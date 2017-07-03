@@ -17,6 +17,7 @@ class Layout extends React.Component {
                 <head>
                     <title>{custom.title}</title>
                     <link rel='stylesheet' href='/styles.css' />
+                    <meta name="viewport" content="width=device-width"/>
                 </head>
                 <body>
 

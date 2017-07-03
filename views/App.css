@@ -1,5 +1,24 @@
-.pageColor{
-	/*background-color: #e8e8e8;*/
+body{
+	font-family: 'Droid Sans', sans-serif;
+	margin:0px;
+}
+
+.activeNav{
+	border-bottom: 5px solid black;
+}
+
+.otherWorkTitle{
+	margin-bottom:0px;
+}
+.viewExcerpt{
+	 background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     border-bottom:1px solid #444; 
+     cursor: pointer;
 }
 
 .pageColor hr{
@@ -7,6 +26,9 @@
 	border-width: .5px;
 	border-color: lightgrey;
 	width:93%;
+	position:absolute;
+	bottom: 0px;
+	margin-left:3.5%;
 }
 
 .flexContainer {
@@ -15,19 +37,20 @@ flex-direction: column;
 	margin-top:50.5px;
 }
 .subPage {
-/*border: 1px solid gray;*/
-flex-basis: 100%;
-margin: 60px 5px 40px 5px;
-	/*background-color:paleturquoise;*/
-/*column-count: 2;*/
-	padding-bottom:40px;
-/*min-height: calc(100vh - 80px);*/
+	flex-basis: 100%;
+	position:relative;
+	z-index: 1;
 }
+
 
 .nav li{
 	display:inline-block;
 	text-align: center;
 
+}
+
+.nav ul{
+	padding:0px;
 }
 
 .nav a{
@@ -37,8 +60,23 @@ margin: 60px 5px 40px 5px;
 }
 
 .nav a:hover{
-	background-color:pink;
+	background-color: rgba(220, 220, 220, 0.34);
 }
+
+.imgAndInfoContainer{
+padding: 50px 0px 50px 0px;
+
+
+}
+
+.excerpt{
+	margin: 20px auto auto auto;
+	width: 400px;
+	padding: 20;
+	background-color: rgba(220, 220, 220, 0.44);
+	opacity:.8;
+}
+
 
 .nav{
 	text-align: center;
@@ -46,5 +84,8 @@ margin: 60px 5px 40px 5px;
 	overflow:hidden;
 	background-color: white;
 	top:0px;
-	width:100%
+	width:100%;
+	z-index:2;
 }
+
+ 
