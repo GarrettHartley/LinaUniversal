@@ -15,7 +15,7 @@ class Layout extends React.Component {
         return (
             <html>
                 <head>
-                    <title>{custom.title}</title>
+                    <title>{"Lina Ferreira"}</title>
                     <link rel='stylesheet' href='/styles.css' />
                     <meta name="viewport" content="width=device-width"/>
                 </head>

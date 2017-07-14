@@ -7,20 +7,6 @@ body{
 	border-bottom: 5px solid black;
 }
 
-.otherWorkTitle{
-	margin-bottom:0px;
-}
-.viewExcerpt{
-	 background:none!important;
-     color:inherit;
-     border:none; 
-     padding:0!important;
-     font: inherit;
-     /*border is optional*/
-     border-bottom:1px solid #444; 
-     cursor: pointer;
-}
-
 .pageColor hr{
 	border-style: solid;
 	border-width: .5px;
@@ -40,6 +26,11 @@ flex-direction: column;
 	flex-basis: 100%;
 	position:relative;
 	z-index: 1;
+	flex: 1 0 auto;
+}
+
+.subPage:nth-child(even){
+background-color: #f5f7f9;
 }
 
 
@@ -64,14 +55,15 @@ flex-direction: column;
 }
 
 .imgAndInfoContainer{
-padding: 50px 0px 50px 0px;
+padding: 0px 0px 50px 0px;
 
 
 }
 
 .excerpt{
 	margin: 20px auto auto auto;
-	width: 400px;
+	max-width:400px;
+	width:calc(100% -40px);
 	padding: 20;
 	background-color: rgba(220, 220, 220, 0.44);
 	opacity:.8;
@@ -86,6 +78,51 @@ padding: 50px 0px 50px 0px;
 	top:0px;
 	width:100%;
 	z-index:2;
+}
+
+.otherWorkTitle{
+	 margin-bottom: -3px;
+    font-weight: 600;
+}
+
+
+.viewExcerpt{
+	 background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+	 text-decoration: underline;
+     cursor: pointer;
+}
+
+.otherWorkButtonsContainer{
+	color:#3399CC;
+}
+
+.source{
+	color:inherit;
+}
+
+.otherWorkContainer{
+	width:600px;
+	margin:auto;
+    line-height: 1.875;
+}
+
+
+.excerptContainer{
+	display: inline-block;
+    width: 100px;
+    margin-left:20px;
+}
+
+@media screen and (max-width: 825px){
+.otherWorkContainer{
+	width:90%;
+	margin:auto;
+}
+
 }
 
  
