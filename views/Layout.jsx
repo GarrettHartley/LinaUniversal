@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 import { connect } from 'react-redux';
+import App from '../views/App.jsx';
 
 class Layout extends React.Component {
     constructor() {
@@ -16,12 +17,12 @@ class Layout extends React.Component {
             <html>
                 <head>
                     <title>{"Lina Ferreira"}</title>
-                    <link rel='stylesheet' href='/styles.css' />
+                    <link rel='stylesheet' type="text/css" href='/styles.css' />
                     <meta name="viewport" content="width=device-width"/>
                 </head>
                 <body>
 
-                    {this.props.children}
+                    <App/>
 
                     <script dangerouslySetInnerHTML={{
                         __html: 'window.PROPS=' + JSON.stringify(custom)

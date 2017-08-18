@@ -80,15 +80,11 @@ class App extends Component {
 							<div className={s.subPage}>
 						<ScrollableAnchor id={'otherWorks'}>
 
-								<CenterItem>
-								<h1>Other Works</h1>
-								</CenterItem>
-						</ScrollableAnchor>
 
 						<CenterItem>
-						<h2>Work in progress</h2>
+						<h2>Works in progress</h2>
 						</CenterItem>
-
+						</ScrollableAnchor>
 						<CenterItem>
 						The Devil Takes Seven Souls. Novel.
 						</CenterItem>
