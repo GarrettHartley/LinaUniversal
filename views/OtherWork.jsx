@@ -17,7 +17,7 @@ class OtherWork extends Component {
   }
 
 	render() {
-		let {title, citation, excerpt} = this.props
+		let {title, citation, excerpt, hasLinks, source} = this.props
 
 		return (
 			<CenterItem>
@@ -27,13 +27,16 @@ class OtherWork extends Component {
 				</p> 
 				{citation}
 				<br/>
+			{hasLinks ?
 				<div className={s.otherWorkButtonsContainer}>
-					<a className={s.source} href="https://www.google.com" target="_blank">view source</a>
+					<a className={s.source} href={source} target="_blank">view source</a>
 					<div className={s.excerptContainer}>
 						<button className={s.viewExcerpt} onClick={() => this.toggleExcerpt()}>{ this.state.excerptIsOpen? 'Close' : 'Read Excerpt'}</button>
 					</div>
 				</div>
+				: null}
 				{this.state.excerptIsOpen ? <p className={s.excerpt}>&ldquo;{excerpt}&rdquo;</p> : null}
+			
 			
 			</div>
 			</CenterItem>

@@ -19,7 +19,7 @@ import MultiPageApp from '../views/MultiPageApp.jsx'
 module.exports = (
     <Router history={browserHistory}>
         <Route path='/' component={Layout}>
-            <Route path='SinglePageApp' component={App} />
+         {/*   <Route path='SinglePageApp' component={App} />
             <Route path='multiPageApp' component={MultiPageApp} >
             
                 <Route path='about' component={About} />
@@ -27,6 +27,7 @@ module.exports = (
                 <Route path='something-else' component={SomethingElse}></Route>
                 <Route path='contact' component={Contact}></Route>
             </Route>
+        */}
         </Route>
     </Router>
 );

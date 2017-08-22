@@ -18,9 +18,10 @@ class Layout extends React.Component {
                 <head>
                     <title>{"Lina Ferreira"}</title>
                     <link rel='stylesheet' type="text/css" href='/styles.css' />
+                    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
                     <meta name="viewport" content="width=device-width"/>
                 </head>
-                <body>
+                <body style={{position:"absolute"}}>
 
                     <App/>
 

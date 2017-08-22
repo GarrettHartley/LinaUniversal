@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^garretthartley.a2hosted\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.garretthartley.a2hosted\.com$
+RewriteRule ^(.*)$ http://127.0.0.1:49155/SinglePageApp/$1 [P,L]

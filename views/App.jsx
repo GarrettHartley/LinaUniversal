@@ -293,24 +293,27 @@ class App extends Component {
 										the mother who tells her, &#34;There’s nothing here for you, Lina. Don’t come back.&#34; Don’t Come Back is an exploration of home and identity that constantly asks, &#34;If you really could go back, would you?&#34;"
 								/>
 								<OtherWork
+									hasLinks={true}
+									source="http://wagsrevue.com/Issue_4/#/83"
 									title="After The Colonel."
 									citation="Essay. Wag’s Revue, Fall 2009. "
-									excerpt="The book opens with a brief creative nonfiction essay that explains the conceit of the project, to re-appropriate the monsters of folklore and legend, and take William Blake to heart when he wrote, &#34;Invent your own mythology or be a slave to another man's.&#34; What follows is a parade of humanized monsters and monstrous humans. Men with axes and devils with chafed inner thighs. Weeping women dreaming of drowning gods and an eleven year old Cain flirting with girls and inventing murder.&#34;
-										the mother who tells her, &#34;There’s nothing here for you, Lina. Don’t come back.&#34; Don’t Come Back is an exploration of home and identity that constantly asks, &#34;If you really could go back, would you?&#34;"
+									excerpt="The cats were poisoned seven days before my grandfather fell from the sky strapped to a faulty parachute. One, Niky, made it to my grandmother’s feet, washing them with blood before collapsing. Yuri never came back."
 								
 								/>
 								<OtherWork
+									hasLinks={true}
+									source="http://inscape.byu.edu/2011/11/16/what-i-know-about-love/"
 									title="What I Know About Love."
 									citation="Essay. Inscape. Fall 2007. "
-									excerpt="The book opens with a brief creative nonfiction essay that explains the conceit of the project, to re-appropriate the monsters of folklore and legend, and take William Blake to heart when he wrote, &#34;Invent your own mythology or be a slave to another man's.&#34; What follows is a parade of humanized monsters and monstrous humans. Men with axes and devils with chafed inner thighs. Weeping women dreaming of drowning gods and an eleven year old Cain flirting with girls and inventing murder.&#34;
-										the mother who tells her, &#34;There’s nothing here for you, Lina. Don’t come back.&#34; Don’t Come Back is an exploration of home and identity that constantly asks, &#34;If you really could go back, would you?&#34;"
+									excerpt="Her husband is long like a lecture and thin like Bible pages. He tried to tell me—but his toothless accent was too thick so I had to hear it from someone else—that he was an Argentinean soccer player once. He stood around as I dove headfirst into knees and shins belonging to boys with worn-out tennis shoes trying to score against my team. My arms wrapped around the ball like desperate lovers, and worn-out tennis shoes raced back into midfield."
 								
 								/>
 								<OtherWork
+									hasLinks={true}
+									source="http://inscape.byu.edu/2011/11/16/margarita-didnt-mind/"
 									title="Margarita Didn’t Mind."
 									citation="Essay. Inscape. Fall 2006. "
-									excerpt="The book opens with a brief creative nonfiction essay that explains the conceit of the project, to re-appropriate the monsters of folklore and legend, and take William Blake to heart when he wrote, &#34;Invent your own mythology or be a slave to another man's.&#34; What follows is a parade of humanized monsters and monstrous humans. Men with axes and devils with chafed inner thighs. Weeping women dreaming of drowning gods and an eleven year old Cain flirting with girls and inventing murder.&#34;
-										the mother who tells her, &#34;There’s nothing here for you, Lina. Don’t come back.&#34; Don’t Come Back is an exploration of home and identity that constantly asks, &#34;If you really could go back, would you?&#34;"
+									excerpt="She wore a white lace dress; a normal dress, I guess, for the occasion. I wonder who picked it. As I stood over the wooden box, it seemed to me that the dress had grown an unnatural extension, and it ate up her neck in sloppy stitches. The stale white dress was more alive than she was—hands stiffly bent over stomach and eyelids pulled over like the final bed sheets of the corpse. She doesn’t look peaceful at all, sleeping there, I thought while I watched her encased in white silk, just very still and quiet, like the silence in hospitals or of angry parents."
 								
 								/>
 								
