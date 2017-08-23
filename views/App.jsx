@@ -331,8 +331,8 @@ class App extends Component {
 
 						</ScrollableAnchor>
 								<CenterItem>
-								<div>Lina Ferreira: lina.ferreira@gmail.com </div>
-								<div>Agent: eharris@foliolit.com</div>
+								<div className={s.email}>lina.ferreira@gmail.com </div>
+								<div className={s.email}>Agent: eharris@foliolit.com</div>
 								</CenterItem>
 
 								{/*<hr/>*/}

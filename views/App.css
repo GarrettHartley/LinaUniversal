@@ -95,6 +95,11 @@ body{
      cursor: pointer;
 }
 
+.email{
+	font-size: 24px;
+	padding-bottom: 30px;
+}
+
 .otherWorkButtonsContainer{
 	color:#3399CC;
 }
