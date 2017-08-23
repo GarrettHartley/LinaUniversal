@@ -27,6 +27,7 @@ flex-direction: column;
 	flex: 1 0 auto;
 	flex-direction: column;
 	min-height: 500px;
+
 }
 
 .subPage:nth-child(even){
@@ -123,6 +124,13 @@ padding: 0px 0px 50px 0px;
 	margin:auto;
 }
 
+}
+
+@media screen and (max-width: 500px){
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial;
+    position:absolute;
+}
 }
 
  
