@@ -21,7 +21,7 @@ class Layout extends React.Component {
                     <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
                     <meta name="viewport" content="width=device-width"/>
                 </head>
-                <body style={{position:"absolute"}}>
+                <body>
 
                     <App/>
 
