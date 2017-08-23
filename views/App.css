@@ -19,9 +19,10 @@ body{
 
 .flexContainer {
 	display: flex;
-flex-direction: column;
+	flex-direction: column;
 	margin-top:50.5px;
 }
+
 .subPage {
 	z-index: 1;
 	flex: 1 0 auto;
@@ -31,14 +32,13 @@ flex-direction: column;
 }
 
 .subPage:nth-child(even){
-background-color: #f5f7f9;
+	background-color: #f5f7f9;
 }
 
 
 .nav li{
 	display:inline-block;
 	text-align: center;
-
 }
 
 .nav ul{
@@ -56,9 +56,7 @@ background-color: #f5f7f9;
 }
 
 .imgAndInfoContainer{
-padding: 0px 0px 50px 0px;
-
-
+	padding: 0px 0px 50px 0px;
 }
 
 .excerpt{
@@ -82,7 +80,7 @@ padding: 0px 0px 50px 0px;
 }
 
 .otherWorkTitle{
-	 margin-bottom: -3px;
+	margin-bottom: -3px;
     font-weight: 600;
 }
 
