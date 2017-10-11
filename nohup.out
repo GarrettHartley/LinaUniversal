@@ -1,0 +1,418 @@
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+sh: /home/garretth/genevarrett.com/LinaUniversal/node_modules/.bin/webpack: Permission denied
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+sh: /home/garretth/genevarrett.com/LinaUniversal/node_modules/.bin/webpack: Permission denied
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: 5d98cf6116063ed89133
+Version: webpack 1.15.0
+Time: 11021ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js   1.1 MB       0  [emitted]  main
+styles.css  64.8 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
+sh: line 1: 504750 Aborted                 node server.js
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 134
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+sh: line 1: 526871 Aborted                 webpack
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 134
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: 2b266288945e740dbe97
+Version: webpack 1.15.0
+Time: 10278ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js  1.12 MB       0  [emitted]  main
+styles.css  87.3 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
+check props
+check props
+sh: line 1: 854194 Killed                  node server.js
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+sh: /home/garretth/genevarrett.com/LinaUniversal/node_modules/.bin/webpack: Permission denied
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+sh: /home/garretth/genevarrett.com/LinaUniversal/node_modules/.bin/webpack: Permission denied
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 126
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: b651278f428a3b1386f3
+Version: webpack 1.15.0
+Time: 11535ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js  1.29 MB       0  [emitted]  main
+styles.css   306 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
+sh: line 1: 174363 Killed                  node server.js
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: 396f0bfb9d565b6f60f0
+Version: webpack 1.15.0
+Time: 87ms
+    + 1 hidden modules
+
+ERROR in Cannot find module 'core-js/library/fn/get-iterator'
+module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '../../modules/es6.object.keys'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (/home/garretth/genevarrett.com/LinaUniversal/node_modules/babel-register/node_modules/core-js/library/fn/object/keys.js:1:63)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: 9f0e410133f4e376ec17
+Version: webpack 1.15.0
+Time: 9991ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js  1.09 MB       0  [emitted]  main
+styles.css  55.5 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
+sh: line 1: 743710 Killed                  node server.js
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/garretth/bin/node" "/home/garretth/bin/npm" "run" "start"
+npm ERR! node v4.4.1
+npm ERR! npm  v2.14.20
+npm ERR! code ELIFECYCLE
+npm ERR! universal-react-tutorial@0.0.0 start: `webpack && node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the universal-react-tutorial@0.0.0 start script 'webpack && node server.js'.
+npm ERR! This is most likely a problem with the universal-react-tutorial package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     webpack && node server.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs universal-react-tutorial
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR! 
+npm ERR!     npm owner ls universal-react-tutorial
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/garretth/genevarrett.com/LinaUniversal/npm-debug.log
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: 30c6e76aee083eef5073
+Version: webpack 1.15.0
+Time: 10372ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js  1.08 MB       0  [emitted]  main
+styles.css  38.1 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
+
+> universal-react-tutorial@0.0.0 start /home/garretth/genevarrett.com/LinaUniversal
+> webpack && node server.js
+
+Hash: ea556e4ff76c8584e970
+Version: webpack 1.15.0
+Time: 35089ms
+     Asset     Size  Chunks             Chunk Names
+ bundle.js  1.09 MB       0  [emitted]  main
+styles.css  47.1 kB       0  [emitted]  main
+    + 316 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Child extract-text-webpack-plugin:
+        + 2 hidden modules
+Warning: Accessing PropTypes via the main React package is deprecated, and will be removed in  React v16.0. Use the latest available v15.* prop-types package from npm instead. For info on usage, compatibility, migration and more, see https://fb.me/prop-types-docs
+Warning: Accessing createClass via the main React package is deprecated, and will be removed in React v16.0. Use a plain JavaScript class instead. If you're not yet ready to migrate, create-react-class v15.* is available on npm as a temporary, drop-in replacement. For more info see https://fb.me/react-create-class
+http://localhost:49156
