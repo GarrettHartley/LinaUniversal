@@ -40,7 +40,7 @@ class ImgAndInfo extends Component {
 						</div>
 
 						<div className={s.imgContainer}>
-							<img style={{marginRight: imgFirstFlag ? 'auto' : null, marginLeft: imgFirstFlag ? null : 'auto' }} src={imgUrl}/>
+							<img style={{marginRight: imgFirstFlag ? 'auto' : null, marginLeft: imgFirstFlag ? null : 'auto', width:'333px' }} src={imgUrl}/>
 						</div>
 					</div>
 				</div>

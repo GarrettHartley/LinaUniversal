@@ -21,21 +21,28 @@ class App extends Component {
 				<div className={s.pageColor}>
 					<nav className={s.nav}>
 						<ul>
-							<li><a href="#about">About</a></li>
+							 <li><a href="#about">About</a></li>
 							<li><a href="#books">Books</a></li>
 							<li><a href="#otherWorks">Other Works</a></li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
 					<div className={s.flexContainer}>
+							
 							<div className={s.subPage}>
 						<ScrollableAnchor id={'about'}>
 								<CenterItem>
-									<h1>Lina Ferreira</h1>
+									<h1>About</h1>
 								</CenterItem>
 						</ScrollableAnchor>
 
-								<ImgAndInfo
+								<CenterItem>
+									<p className={s.about}>
+										Lina was born and raised (mostly) in Bogota, Colombia and has since then been tumbleweeding aimlessly through the world. She is the author of Drown Sever Sing, and her ode to cannibalism can be found in the collection titled, After Montaigne: Contemporary Essayists Cover the Essays. She is a graduate of The University of Iowa’s Creative Nonfiction and Literary Translation programs, and her work has been featured in Arts and Letters, The Chicago Review, and Fourth Genre, among others.  Her new book, Don't Come Back,  is published by Mad River Books, an imprint of The Ohio State University Press (January 2017). Ferreira is a recipient of the 2016 Rona Jaffe Foundation Writer's Award.
+
+									</p>
+								</CenterItem>
+								{/*<ImgAndInfo
 								imgUrl={'../linaFerreira.jpg'}
 								title=""
 								info="Lina was born and raised (mostly) in Bogota, Colombia and has since then been tumbleweeding aimlessly through the world. She is the author of Drown Sever Sing, and her ode to cannibalism can be found in the collection titled, After Montaigne: Contemporary Essayists Cover the Essays. She is a graduate of The University of Iowa’s Creative Nonfiction and Literary Translation programs, and her work has been featured in Arts and Letters, The Chicago Review, and Fourth Genre, among others.  Her new book, Don't Come Back,  is published by Mad River Books, an imprint of The Ohio State University Press (January 2017). Ferreira is a recipient of the 2016 Rona Jaffe Foundation Writer's Award."
@@ -45,7 +52,7 @@ class App extends Component {
 								 {/*<hr/>*/}
 
 							</div>
-
+							
 
 							<div className={s.subPage}>
 						<ScrollableAnchor id={'books'}>

@@ -68,6 +68,15 @@ body{
 	opacity:.8;
 }
 
+.about{
+	margin: 20px auto auto auto;
+    max-width: 600px;
+    width: calc(100% -40px);
+    padding: 20;
+    line-height: 26px;
+    opacity: .8;
+}
+
 
 .nav{
 	text-align: center;
