@@ -16,7 +16,16 @@ class Layout extends React.Component {
         return (
             <html>
                 <head>
-                    <title>{"Lina Ferreira"}</title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109228907-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109228907-1');
+</script>     
+               <title>{"Lina Ferreira"}</title>
                     <link rel='stylesheet' type="text/css" href='/styles.css' />
                     <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
                     <meta name="viewport" content="width=device-width"/>
