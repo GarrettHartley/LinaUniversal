@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router';
 import { connect } from 'react-redux';
 import App from '../views/App.jsx';
+import ga from 'react-ga';
 
 class Layout extends React.Component {
     constructor() {
@@ -11,20 +12,12 @@ class Layout extends React.Component {
     _handleClick() {
         alert(this.props.custom.title);
     }
+
     render() {
         const { custom } = this.props;
         return (
             <html>
                 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109228907-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-109228907-1');
-</script>     
                <title>{"Lina Ferreira"}</title>
                     <link rel='stylesheet' type="text/css" href='/styles.css' />
                     <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
@@ -32,12 +25,18 @@ class Layout extends React.Component {
                 </head>
                 <body>
 
-                    <App/>
+                    <App>
+                                        <script>
+    console.log("hello world")
+}
+    </script>
+                    </App>
 
                     <script dangerouslySetInnerHTML={{
                         __html: 'window.PROPS=' + JSON.stringify(custom)
                     }} />
                     <script src='/bundle.js' />
+
                 </body>
             </html>
         );

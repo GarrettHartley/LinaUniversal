@@ -13,12 +13,19 @@ class App extends Component {
 
 	componentWillMount(){
 		configureAnchors({offset: -75, keepLastAnchorHash: false})
+		console.log("hello?")
+	}
+	componentDidMount(){
+		console.log("hello?")
 	}
 
 	render() {
 
 		return (
 				<div className={s.pageColor}>
+				<script>
+				console.log("hello?")
+				</script>
 					<nav className={s.nav}>
 						<ul>
 							 <li><a href="#about">About</a></li>
